@@ -10,7 +10,7 @@ This keeps your local repo in sync with the remote.
 ## Continue your development in ros2_ws/src
 ```bash
 cd ~/ros2_ws
-colcon build --packages-select apriltag_detection
+colcon build --packages-select <package-name> --symlink-install
 source install/setup.bash
 ```
 
