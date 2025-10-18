@@ -3,3 +3,4 @@
 - [GitHub](https://github.com/VivekSai07/My-Notes/blob/main/GitHub%20Notes.md)
 - [ROS2-Github Commands](https://github.com/VivekSai07/My-Notes/blob/main/ROS2-Github-Notes.md)
 - [Mujoco learning Notes](https://github.com/VivekSai07/My-Notes/blob/main/Mujoco-Learning-Notes.md)
+- [AI Notes](https://github.com/VivekSai07/My-Notes/blob/main/AI-notes.md)
